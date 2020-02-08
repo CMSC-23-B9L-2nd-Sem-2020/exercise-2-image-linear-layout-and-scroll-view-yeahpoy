@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">exer2_lorente_B9L</string>
+    <string name="title">Which Starter Are You?</string>
+    <string name="charmander_des">
+        The flame that burns at the tip of its tail is an indication of its emotions.
+        The flame wavers when Charmander is enjoying itself. If the Pokémon becomes
+        enraged, the flame burns fiercely.
+
+        Charmander is a bipedal, reptilian Pokémon with a primarily orange body and blue eyes.
+        Its underside from the chest down and the soles of its feet are cream-colored. It has
+        two small fangs visible in its upper jaw and two smaller fangs in its lower jaw. A fire
+        burns at the tip of this Pokémon\'s slender tail and has blazed there since Charmander\'s
+        birth. The flame can be used as an indication of Charmander\'s health and mood, burning
+        brightly when the Pokémon is strong, weakly when it is exhausted, wavering when it is
+        happy, and blazing when it is enraged. It is said that Charmander dies if its flame goes
+        out. However, if the Pokémon is healthy, the flame will continue to burn even if it gets
+        a bit wet and is said to steam in the rain.
+    </string>
+
+    <string name="bulbasaur_des">
+        Bulbasaur can be seen napping in bright sunlight. There is a seed on its back.
+        By soaking up the sun’s rays, the seed grows progressively larger.
+
+        Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker patches.
+        It has red eyes with white pupils, pointed, ear-like structures on top of its head, and
+        a short, blunt snout with a wide mouth. A pair of small, pointed teeth are visible in the
+        upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On
+        its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb
+        provides it with energy through photosynthesis as well as from the nutrient-rich seeds
+        contained within.
+    </string>
+
+    <string name = "squirtle_des">
+        Squirtle’s shell is not merely used for protection. The shell’s rounded shape
+        and the grooves on its surface help minimize resistance in water, enabling this
+        Pokémon to swim at high speeds.
+
+        Squirtle\'s shell is a useful tool. It can withdraw into the shell for protection or to sleep.
+        The grooved, rounded shape helps to reduce water resistance, allowing the Pokémon to swim at
+        high speeds. Squirtle can spray foamy water from its mouth with great accuracy. Squirtle is
+        scarce in the wild, although it can be found around small ponds and lakes. The anime has shown
+        that it can be found living on secluded islands with other members of its evolutionary line.
+        In the past, Skull Bash was its signature move.
+    </string>
+
+    <string name="cyndaquil_des">
+        Cyndaquil protects itself by flaring up the flames on its back. The flames are
+        vigorous if the Pokémon is angry. However, if it is tired, the flames splutter
+        fitfully with incomplete combustion.
+
+        Cyndaquil is a small, bipedal Pokémon with bluish fur on top of its body and cream-colored fur
+        on its underside. Its eyes are usually seen closed, and it has a long, thin snout. Its arms are
+        short, but its legs are slightly more developed and have a single nail on each foot. On its back
+        are four red circles that can erupt into flames. When the flames are burning, its back seems to
+        be covered in spines.
+    </string>
+
+    <string name="chikorita_des">
+        In battle, Chikorita waves its leaf around to keep the foe at bay. However, a
+        sweet fragrance also wafts from the leaf, becalming the battling Pokémon and
+        creating a cozy, friendly atmosphere all around.
+
+        Chikorita is a small, pale green Pokémon with dark green buds around its neck. Its head is large
+        in proportion to the rest of its body, and it has big red eyes. It has four short legs with a single
+        nailed toe on each and a stubby tail. On top of its head is a large, green leaf that is usually longer
+        than its body. A soothing aroma wafts from the leaf, which can calm battling Pokémon.
+    </string>
+
+    <string name="totodile_des">
+        Despite the smallness of its body, Totodile’s jaws are very powerful. While
+        the Pokémon may think it is just playfully nipping, its bite has enough
+        power to cause serious injury.
+
+        Totodile is a bipedal, crocodilian Pokémon with well-developed jaws. It has red eyes with ridges above them,
+        black markings around its eyes, and several sharp teeth. On its chest is a yellow, V-shaped marking that extends
+        to its arms; there is a thin line through the center of the marking. Totodile has five fingers and three toes.
+        Down its back is a row of three red spines with a small, red ridge on either side. The tip of its tail has a
+        single red spine as well. Totodile tends to be playful by nature and has a habit of biting anything it sees,
+        including its Trainer.
+    </string>
+
+    <string name="popplio_des">
+        This Pokémon snorts body fluids from its nose, blowing balloons to smash into its
+        foes. It’s famous for being a hard worker.
+
+        Popplio is a pinniped Pokémon that is primarily blue. It has large eyes, a long, white snout with black whiskers,
+        and round, pink nose. There is a small, rounded earflap on each side of its head. Around its neck is a light blue
+        ruff, which extends past its shoulders. It has four flippers. The front flippers are larger than the hind, and have
+        white markings separating its toes.
+
+    </string>
+
+    <string name="treecko_des">
+        Treecko is cool, calm, and collected—it never panics under any situation. If a bigger
+        foe were to glare at this Pokémon, it would glare right back without conceding an
+        inch of ground.
+
+        Treecko is a small, green, bipedal reptilian Pokémon. It has yellow eyes with long, narrow pupils. Treecko\'s hands and
+        feet each have three digits covered with tiny spikes. These spikes allow it to scale vertical walls with ease. Its stomach
+        and throat are red. It also has a line across on its stomach resembling a pouch. Treecko has a large, dark green tail with
+        two separate lobes that it uses to sense humidity.
+
+    </string>
+
+    <string name="torchic_des">
+        Torchic sticks with its Trainer, following behind with unsteady steps. This Pokémon
+        breathes fire of over 1,800 degrees Fahrenheit, including fireballs that leave the
+        foe scorched black.
+
+        Torchic is a small, chick Pokémon with stubby, downy, yellow wings. Its body is covered
+        with orange feathers. There is an orange and yellow crest on its head that resembles a
+        flame. Its two thin legs and short beak of are a light brownish yellow, and the feet have
+        three toes in front and one in the back. A male Torchic will have a small black speck on
+        its rear that is not present in females.
+    </string>
+
+
+    <string name="piplup_des">
+        Piplup is a light-blue, penguin-like Pokémon, which is covered in thick down to insulate against the cold.
+        It has a dark blue head with a primarily white face and a short, yellow beak. The dark blue feathers on its
+        head extend down its back and around its neck, which causes it to appear to be wearing a cape.
+
+        Because it is very proud, it hates accepting food from people. Its thick down
+        guards it from cold.
+    </string>
+
+
+    <string name="none">
+
+    </string>
+</resources>
